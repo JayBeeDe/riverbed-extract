@@ -4,7 +4,7 @@
 ## GOAL
 
 The script and its two classes have been developed for EDF SA in order to
-extract massive informations from Riverbed® Steelhead™ devices.							
+extract massive informations from RiverbedÂ® Steelheadâ„¢ devices.							
 
 ## FILES
 
@@ -31,7 +31,7 @@ information.
 
 ## INSTALLATION & USE
 
-The manual will be soon available.
+See manual page: https://github.com/JayBeeDe/riverbed-perl/wiki
 
 > 01-07-2015 | Jean-Baptiste DELON
 [Issues](https://github.com/JayBeeDe/riverbed-perl/issues)
